@@ -30,4 +30,4 @@ Streamlit-приложение для сервиса, который реком�
 
 ## Развернутое приложение
 
-Ссылка:
+Ссылка: https://hw3-mmda-e3tujgtyftn5vmzx4ndcer.streamlit.app
